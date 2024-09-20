@@ -1,0 +1,16 @@
+{
+  "name": "project_medical_pager_chat-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2",
+    "socket.io": "^4.7.5"
+  }
+}
